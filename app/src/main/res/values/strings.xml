@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TouchShapes</string>
+    <string name="ok">ok</string>
+    <string name="add">add</string>
+    <string name="player_name">Player Name</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="high_scores">High_Scores</string>
+    <string name="home">Home</string>
+    <string name="new_game">New Game</string>
+</resources>
